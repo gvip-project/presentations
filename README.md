@@ -32,6 +32,7 @@
 - [Cyberscoop: “CVE Foundation eyes year-end launch following 11th-hour rescue of MITRE program” ](https://cyberscoop.com/cve-program-funding-crisis-cve-foundation-mitre/)
 - [Statement from the CVE Foundation 2025-05-15: ](https://www.linkedin.com/posts/cve-foundation_cve-foundation-statement-the-cve-foundation-activity-7328533663355138048-uGR6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAAH9iQB2Ug4cfy7yqNWon5O0BPcztw-IoM)
 )
+- Phoenix Security Blog: [The CVE & NVD Crisis: A Wake-Up Call for Cybersecurity Industry andApplication Security](https://phoenix.security/the-cve-nvd-crisis-a-wake-up-call-for-application-security/)
 
 ## Videos
 
