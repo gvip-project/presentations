@@ -2,9 +2,13 @@
 
 ## Member organisations
 
-- [OWASP](https://owasp.org)
-- [OpenSSF](https://openssf.org/)
+These are part of the work in the informal project group
+
+- [OWASP Foundation](https://owasp.org)
+- [OpenSSF](https://openssf.org/) - Open Source Security Foundation, part of Linux foundation
   - [OpenSSF WG Vulnerability Disclosures:](https://github.com/ossf/wg-vulnerability-disclosures)
+- [Eclipse Foundation](https://eclipse.org)
+- [Open Forum Eruope](https://openforumeurope.org)
 
 ## Vulnerability services
 
