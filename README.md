@@ -1,3 +1,20 @@
+# Events
+
+## GVIP Summit January 28th, 2026, Brussels, Belgium
+
+As part of the [Open Source Week](https://opensourceweek.eu) in Brussels, we're organising the
+GVIP Summit - a full day conference focusing on vulnerability management and databases. We'll take
+a look into the history, the current situation and into the future. Together
+we'll set the direction of future work within the GVIP project.
+
+More details will follow soon. If you want to participate - follow GVIP on
+LinkedIn for updates or join the cve@owasp.org mailing list and we'll let you know
+as we soon will open for registration (limited seats).
+
+Participation will be free. If you want to contribute as a speaker - contact Olle E Johansson today!
+
+![GVIP Summit - save the date!](images/gvip-summit-save-the-date.png)
+
 # Presentations, links and videos
 
 ## Member organisations
