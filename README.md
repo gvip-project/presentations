@@ -47,12 +47,14 @@ The work is supported by the [Sovereign Tech Agency](https://sovereign.tech)
 
 ## Related articles and blogs
 
-- [SecurityWeek.com: NIS is still struggling to clear vulnerability submissions backlog in NVD (March 2025) ](https://www.securityweek.com/nist-still-struggling-to-clear-vulnerability-submissions-backlog-in-nvd/)
+- 2025-10: [CVE at a Crossroads: A Blueprint for the Next 25 Years](https://securityandtechnology.org/virtual-library/report/cve-at-a-crossroads/)
+  A report by the Institute for security + technology
+- 2025-03: [SecurityWeek.com: NIS is still struggling to clear vulnerability submissions backlog in NVD (March 2025) ](https://www.securityweek.com/nist-still-struggling-to-clear-vulnerability-submissions-backlog-in-nvd/)
 - [Mitre issues reported on reddit in 2025 ](https://www.reddit.com/r/cybersecurity/comments/1jk79q8/what_is_happening_at_mitre/?rdt=63362)
 - [The Stack: As NVD flatlines, cybersecurity professionals call for urgent action (April 2024) ](https://www.thestack.technology/nvd-crisis-vulnerabilities-data-update/)
 - [2025-04-16: The launch of the CVE foundation ](https://www.thecvefoundation.org/)
 - [OWASP blog 2025-04-17: ](https://owasp.org/blog/2025/04/17/owasp-global-vulnerability-intelligence)
-- [](https://www.theregister.com/2025/04/18/splintering_cve_bug_tracking/)
+- 2025-04[The register](https://www.theregister.com/2025/04/18/splintering_cve_bug_tracking/)
 - [Olle’s presentation for ORC WG April 28th: ](https://drive.google.com/file/d/118qJUFS3FYzGf-Sod7N6zbEmR4ZHFKJI/view?usp=share_link)
 - [Chris Langton: Beyond CVE: Building a decentralized future for vulnerability intelligence](https://bitsofcyber.substack.com/p/beyond-cve-building-a-decentralized))
 - [Cyberscoop: “CVE Foundation eyes year-end launch following 11th-hour rescue of MITRE program” ](https://cyberscoop.com/cve-program-funding-crisis-cve-foundation-mitre/)
