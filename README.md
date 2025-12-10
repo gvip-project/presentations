@@ -8,7 +8,9 @@ These are part of the work in the informal project group
 - [OpenSSF](https://openssf.org/) - Open Source Security Foundation, part of Linux foundation
   - [OpenSSF WG Vulnerability Disclosures:](https://github.com/ossf/wg-vulnerability-disclosures)
 - [Eclipse Foundation](https://eclipse.org)
-- [Open Forum Eruope](https://openforumeurope.org)
+- [Open Forum Europe](https://openforumeurope.org)
+
+The work is supported by the [Sovereign Tech Agency](https://sovereign.tech)
 
 ## Vulnerability services
 
@@ -18,9 +20,12 @@ These are part of the work in the informal project group
 - [European Union Vulnerability Database (EUVD):](https://euvd.enisa.eu)
 - [Github Advisory Database](https://github.com/advisories)
 - [JVN:](https://jvn.jp/en/)
+- [OSV](https://osv.dev)
 
 ## Related organisations
 
+- [The CVE program:](https://www.cve.org/)
+- [FIRST](https://first.org/)
 - [The CVE Foundation:](https://www.thecvefoundation.org/)
 
 ## Related articles and blogs
