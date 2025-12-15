@@ -8,10 +8,11 @@ a look into the history, the current situation and into the future. Together
 we'll set the direction of future work within the GVIP project.
 
 More details will follow soon. If you want to participate - follow GVIP on
-LinkedIn for updates or join the cve@owasp.org mailing list and we'll let you know
-as we soon will open for registration (limited seats).
+LinkedIn for updates or join the cve@owasp.org mailing list.
 
-Participation will be free. If you want to contribute as a speaker - contact Olle E Johansson today!
+- [Free registration and info](https://www.gvip-project.org)
+
+Participation is free. If you want to contribute as a speaker - contact Olle E Johansson today!
 
 ![GVIP Summit - save the date!](images/gvip-summit-save-the-date.png)
 
