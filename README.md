@@ -1,21 +1,5 @@
 # Events
 
-## GVIP Summit January 28th, 2026, Brussels, Belgium
-
-As part of the [Open Source Week](https://opensourceweek.eu) in Brussels, we're organising the
-GVIP Summit - a full day conference focusing on vulnerability management and databases. We'll take
-a look into the history, the current situation and into the future. Together
-we'll set the direction of future work within the GVIP project.
-
-More details will follow soon. If you want to participate - follow GVIP on
-LinkedIn for updates or join the cve@owasp.org mailing list.
-
-- [Free registration and info](https://www.gvip-project.org)
-
-Participation is free. If you want to contribute as a speaker - contact Olle E Johansson today!
-
-![GVIP Summit - save the date!](images/gvip-summit-save-the-date.png)
-
 # Presentations, links and videos
 
 ## Member organisations
@@ -27,8 +11,7 @@ These are part of the work in the informal project group
   - [OpenSSF WG Vulnerability Disclosures:](https://github.com/ossf/wg-vulnerability-disclosures)
 - [Eclipse Foundation](https://eclipse.org)
 - [Open Forum Europe](https://openforumeurope.org)
-
-The work is supported by the [Sovereign Tech Agency](https://sovereign.tech)
+- [AboutCode](https://aboutcode.org)
 
 ## Vulnerability services
 
@@ -68,3 +51,5 @@ The work is supported by the [Sovereign Tech Agency](https://sovereign.tech)
 - [ORCWG CRA Monday presentation with Olle: ](https://youtu.be/zSsGLJTgWvU?si=7X2cedC78MwN4cYk)
 - [Tiberius Q&A with the CVE Foundation: ](https://youtu.be/LRbHiB5Jn4k?si=4sEeTZUoBPqlPl1b)
 
+
+The information in this repository is by default licensed under Creative Commons CC BY 4.0 license, unless a document specifies another license that applies to that document.
